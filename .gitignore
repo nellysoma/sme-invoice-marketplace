@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+nbactions*.xml
+nb-configuration.xml
+.env
+*.log
+uploads/
+.DS_Store
